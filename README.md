@@ -11,8 +11,8 @@ i3bar has been replaced with polybar for improved functionality and better aesth
 
 Dunst is used as my notification manager so Spotify can be used without borking the WM.
 
-My .xinitrc is currently minimally configured to select random images of Fjords and assign them to each monitor's background individually.
-xinitrc also instantiates i3-gaps and loads .Xresources.
+My .xinitrc is currently minimally configured to select random images of fjords and assign them to each monitor's background individually.
+.xinitrc also instantiates i3-gaps and loads .Xresources.
 
 Speaking of .Xresources, upon being loaded by .xinitrc, xrvt-unicode loads a custom color scheme and becomes significantly less ugly!
 Which does not say much given its default color scheme is like having a staring contest with a flashbang.
