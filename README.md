@@ -16,6 +16,6 @@ My .xinitrc is currently minimally configured to select random images of fjords 
 
 Speaking of .Xresources, upon being loaded by .xinitrc, xrvt-unicode loads a custom color scheme and becomes significantly less ugly!
 Which does not say much given its default color scheme is like having a staring contest with a flashbang.
-Once the colorscheme loads, some sneaky perl scripts get loaded at the very bottom to enable copy-paste functionality which the xrvt-unicode devs didn't feel was very important.
+Once the colorscheme loads, some sneaky perl scripts get loaded at the very bottom to enable copy-paste functionality.
 
 How fun is that!
